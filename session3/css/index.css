@@ -1,0 +1,34 @@
+/* body {
+    background: red;
+} */
+
+
+/* tag selector */
+
+div {
+    color: orange
+}
+
+
+/* class selctor */
+
+.first-div {
+    color: blue
+}
+
+
+.yellow-div {
+    color: red;
+}
+
+
+/* id selector */
+
+#original-div {
+    color:cyan
+}
+
+
+.ulfg-2 , .ulfg-3 {
+    color: lightslategrey;
+}
