@@ -2,33 +2,29 @@
     background: red;
 } */
 
-
 /* tag selector */
 
 div {
-    color: orange
+  color: orange;
 }
-
 
 /* class selctor */
 
 .first-div {
-    color: blue
+  color: blue;
 }
-
 
 .yellow-div {
-    color: red;
+  color: red;
 }
-
 
 /* id selector */
 
 #original-div {
-    color:cyan
+  color: cyan;
 }
 
-
-.ulfg-2 , .ulfg-3 {
-    color: lightslategrey;
+.ulfg-2,
+.ulfg-3 {
+  color: lightslategrey;
 }
